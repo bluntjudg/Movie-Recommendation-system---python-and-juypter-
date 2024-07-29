@@ -1,5 +1,7 @@
 Movie Recommendation System
+
 Overview
+
 This project leverages machine learning to develop a personalized movie recommendation system. By combining collaborative filtering and content-based filtering techniques, it analyzes user preferences and movie attributes to suggest tailored movie recommendations.
 
 Features
